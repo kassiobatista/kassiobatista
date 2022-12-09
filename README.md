@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kassiobatista
 - 👀 I’m interested in be a developer
-- 🌱 I’m currently learning: Python, SQL, English
+- 🌱 I’m currently learning: Front-End (HMTL,CSS, JavaScript)
 - 💞️ I’m looking to collaborate on internship vacancies
 - 📫 How to reach me: https://www.linkedin.com/in/kassiobatista/
 
