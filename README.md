@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kassiobatista
-- 👀 I’m interested in be a developer
-- 🌱 I’m currently learning: Front-End (HMTL,CSS, JavaScript)
-- 💞️ I’m looking to collaborate on internship vacancies
+- 👀 I’m Systems Analyst
+- 🌱 I’m currently learning: ADVPL
 - 📫 How to reach me: https://www.linkedin.com/in/kassiobatista/
 
 <!---
